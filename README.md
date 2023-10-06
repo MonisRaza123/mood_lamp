@@ -89,16 +89,16 @@ The program for this project is written and compiled on Arduino IDE. The followi
 
 ## END RESULT
 
-|<img src="images/enclosure1.jpg" width="700"> |
+|<img src="images/enclosure1.jpg" width="466"> |
 |:--:|
-|<img src="images/enclosure2.jpeg" width="700">|
+|<img src="images/enclosure2.jpeg" width="466">|
 |*Enclosed lamp from different angles*|
 
 
-|<img src="images/red.jpg" width="700"> |
+|<img src="images/red.jpg" width="466"> |
 |:--:|
-|<img src="images/green.jpg" width="700">|
-|<img src="images/blue.jpg" width="700">|
+|<img src="images/green.jpg" width="466">|
+|<img src="images/blue.jpg" width="466">|
 |*Mood Lamp showing different shades.*|
 
 
