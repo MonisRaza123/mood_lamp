@@ -10,4 +10,4 @@ ESP32 WROOM is used as the microcontroller with 3W RGB LEDs being the illuminant
 
 Every embedded system can be categorised into the following six blocks of operation:
 
-![figure representing six box model for a typical embedded system](images/Screenshot 2023-02-11 at 11.54.18 PM.png)
+![figure representing six box model for a typical embedded system](/images/Screenshot 2023-02-11 at 11.54.18 PM.png)
